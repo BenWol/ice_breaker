@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# model files
+*.gguf
+
+# vs code related files
+.vscode/
+.DS_Store
